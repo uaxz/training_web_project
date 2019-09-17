@@ -1,0 +1,1 @@
+mkdir uploads etc public public/img public/css public/js
